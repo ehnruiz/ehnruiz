@@ -92,10 +92,14 @@ const emmanuel: Engineer = {
 
 | Project | Contribution | Tech | Where |
 |---|---|---|---|
+| 🧰 **claude-skills** | My Claude Code skills and subagents, rewritten for any repository: route work across model tiers, build test-first, debug from a failing loop, hand off between sessions, write tickets people read, and catch skills that compete for the same request. Install as a plugin or with `npx skills add ehnruiz/claude-skills`. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square) | [Repo](https://github.com/ehnruiz/claude-skills) |
 | 🧱 **Instatic** | Evaluating an open-source visual CMS for static sites; fixing what I hit on the way: CSS custom properties dropped by the publisher, imported color and font tokens whose `var()` references were not rewritten. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Pull requests](https://github.com/CoreBunch/Instatic/pulls?q=is%3Apr+author%3Aehnruiz) · [Issues](https://github.com/CoreBunch/Instatic/issues?q=is%3Aissue+author%3Aehnruiz) |
 
 <div align="center">
 
+<a href="https://github.com/ehnruiz/claude-skills">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ehnruiz&repo=claude-skills&theme=default&hide_border=true" width="48%" />
+</a>
 <a href="https://github.com/ehnruiz/ehnruiz.github.io">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ehnruiz&repo=ehnruiz.github.io&theme=default&hide_border=true" width="48%" />
 </a>
@@ -132,7 +136,7 @@ const emmanuel: Engineer = {
 
 ## 🔭 Current Interests
 
-- 🤖 **AI agents as a team, not a tool.** Supervisor and worker roles on different models, skills that encode how a repo is judged, hooks that block secrets and loose files, handoffs between sessions. The question I keep asking: how far can a small team's pace go without the quality floor moving?
+- 🤖 **AI agents as a team, not a tool.** Supervisor and worker roles on different models, skills that encode how a repo is judged, hooks that block secrets and loose files, handoffs between sessions. The skills I use every day are public in [claude-skills](https://github.com/ehnruiz/claude-skills). The question I keep asking: how far can a small team's pace go without the quality floor moving?
 - 📡 **AI visibility.** How LLM answer engines read, cite and rank sites, and which page-level signals move that for a regulated industry. Measured, not guessed.
 - 🧱 **Static-first publishing.** Astro, design tokens and an open-source visual CMS as an alternative to Webflow for marketing sites, judged by the same audit as the sites they would replace.
 - 🧠 **Embeddings in quality checks.** Paraphrase detection for approved claims, portfolio overlap and prompt answerability, on small open models.
