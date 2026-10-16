@@ -161,16 +161,23 @@ const emmanuel: Engineer = {
 
 ## ✍️ Writing
 
+<!-- writing:start -->
 <div align="center">
 
-<a href="https://mister99.dev/essay/one-month-at-the-frontier/">
-  <img src="https://mister99.dev/assets/cards/one-month-at-the-frontier-2.png" alt="One Month at the Frontier" width="70%" />
+<a href="https://mister99.dev/essay/worth-a-strangers-five-minutes/">
+  <img src="https://mister99.dev/assets/cards/worth-a-strangers-five-minutes.png" alt="Worth a Stranger's Five Minutes" width="70%" />
 </a>
 
-**[One Month at the Frontier](https://mister99.dev/essay/one-month-at-the-frontier/)**
-*What thirty days of building X-Ray taught me about pace, quality and leading with AI*
+**[Worth a Stranger's Five Minutes](https://mister99.dev/essay/worth-a-strangers-five-minutes/)**
+*Rewriting the docs of my Claude Code skills repository with evidence, and the hook bug the evidence turned up*
 
 </div>
+
+Earlier essays:
+
+- **[One Month at the Frontier](https://mister99.dev/essay/one-month-at-the-frontier/)**. What thirty days of building X-Ray taught me about pace, quality and leading with AI
+- **[Found, Read and Quoted](https://mister99.dev/essay/found-read-and-quoted/)**. Auditing my own site with X-Ray, and what it took to go from 84 to 100
+<!-- writing:end -->
 
 ---
 
