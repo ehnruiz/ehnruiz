@@ -164,17 +164,18 @@ const emmanuel: Engineer = {
 <!-- writing:start -->
 <div align="center">
 
-<a href="https://mister99.dev/essay/worth-a-strangers-five-minutes/">
-  <img src="https://mister99.dev/assets/cards/worth-a-strangers-five-minutes.png" alt="Worth a Stranger's Five Minutes" width="70%" />
+<a href="https://mister99.dev/essay/the-cheapest-model-that-can-do-it/">
+  <img src="https://mister99.dev/assets/cards/the-cheapest-model-that-can-do-it.png" alt="The Cheapest Model That Can Do It" width="70%" />
 </a>
 
-**[Worth a Stranger's Five Minutes](https://mister99.dev/essay/worth-a-strangers-five-minutes/)**
-*Rewriting the docs of my Claude Code skills repository with evidence, and the hook bug the evidence turned up*
+**[The Cheapest Model That Can Do It](https://mister99.dev/essay/the-cheapest-model-that-can-do-it/)**
+*Three weeks of routing agent work by model tier, read back from the session logs*
 
 </div>
 
 Earlier essays:
 
+- **[Worth a Stranger's Five Minutes](https://mister99.dev/essay/worth-a-strangers-five-minutes/)**. Rewriting the docs of my Claude Code skills repository with evidence, and the hook bug the evidence turned up
 - **[One Month at the Frontier](https://mister99.dev/essay/one-month-at-the-frontier/)**. What thirty days of building X-Ray taught me about pace, quality and leading with AI
 - **[Found, Read and Quoted](https://mister99.dev/essay/found-read-and-quoted/)**. Auditing my own site with X-Ray, and what it took to go from 84 to 100
 <!-- writing:end -->
