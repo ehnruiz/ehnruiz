@@ -94,6 +94,9 @@ const emmanuel: Engineer = {
 |---|---|---|---|
 | 🧰 **claude-skills** | My Claude Code skills and subagents, rewritten for any repository: route work across model tiers, build test-first, debug from a failing loop, hand off between sessions, write tickets people read, and catch skills that compete for the same request. Install as a plugin or with `npx skills add ehnruiz/claude-skills`. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square) | [Repo](https://github.com/ehnruiz/claude-skills) |
 | 🧱 **Instatic** | Evaluating an open-source visual CMS for static sites; fixing what I hit on the way: CSS custom properties dropped by the publisher, imported color and font tokens whose `var()` references were not rewritten. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Pull requests](https://github.com/CoreBunch/Instatic/pulls?q=is%3Apr+author%3Aehnruiz) · [Issues](https://github.com/CoreBunch/Instatic/issues?q=is%3Aissue+author%3Aehnruiz) |
+| 🚀 **Astro docs** | 19 merged PRs translating the Astro CMS guides to French (WordPress, Strapi, Kontent.ai, Drupal and more), plus one in Starlight. | ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![MDX](https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white) | [Merged PRs](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aehnruiz+org%3Awithastro) |
+| 🧩 **OpenRig** | Reported and fixed overlapping skill descriptions, so the agent picks the right skill for recovery, watchdog wakes and upgrades. | ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square) | [Merged PR](https://github.com/mvschwarz/openrig/pull/1174) · [Issue](https://github.com/mvschwarz/openrig/issues/1171) |
+| 🐛 **Bug reports** | Playwright: pageerror stacks report zero-based line and column numbers for cross-origin script errors in Chromium. Anthropic's knowledge-work-plugins: two documentation skills trigger on the same requests. | ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) | [Playwright #43450](https://github.com/microsoft/playwright/issues/43450) · [knowledge-work-plugins #1306](https://github.com/anthropics/knowledge-work-plugins/issues/1306) |
 
 <div align="center">
 
@@ -155,7 +158,7 @@ const emmanuel: Engineer = {
 
 </div>
 
-> Most of my commits land in private Arthrex repositories: about 1,900 contributions across 24 repositories in the past year (October 2026). The graph above counts them; the public repository list does not.
+> Most of my commits land in private Arthrex repositories: about 3,300 contributions in the past year (October 2026). The graph above counts them; the public repository list does not.
 
 ---
 
