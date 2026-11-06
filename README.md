@@ -167,17 +167,18 @@ const emmanuel: Engineer = {
 <!-- writing:start -->
 <div align="center">
 
-<a href="https://mister99.dev/essay/who-gets-the-flight-hours/">
-  <img src="https://mister99.dev/assets/cards/who-gets-the-flight-hours.png" alt="Who Gets the Flight Hours?" width="70%" />
+<a href="https://mister99.dev/essay/i-measured-my-own-multiplier/">
+  <img src="https://mister99.dev/assets/cards/i-measured-my-own-multiplier.png" alt="I Measured My Own Multiplier" width="70%" />
 </a>
 
-**[Who Gets the Flight Hours?](https://mister99.dev/essay/who-gets-the-flight-hours/)**
-*Our framework for growing junior engineers, checked against the hiring data and the learning studies*
+**[I Measured My Own Multiplier](https://mister99.dev/essay/i-measured-my-own-multiplier/)**
+*Forty-two days of agentic engineering, counted against every baseline I could find, and the ten days it took to work out the question*
 
 </div>
 
 Earlier essays:
 
+- **[Who Gets the Flight Hours?](https://mister99.dev/essay/who-gets-the-flight-hours/)**. Our framework for growing junior engineers, checked against the hiring data and the learning studies
 - **[The Cheapest Model That Can Do It](https://mister99.dev/essay/the-cheapest-model-that-can-do-it/)**. Three weeks of routing agent work by model tier, read back from the session logs
 - **[Worth a Stranger's Five Minutes](https://mister99.dev/essay/worth-a-strangers-five-minutes/)**. Rewriting the docs of my Claude Code skills repository with evidence, and the hook bug the evidence turned up
 - **[One Month at the Frontier](https://mister99.dev/essay/one-month-at-the-frontier/)**. What thirty days of building X-Ray taught me about pace, quality and leading with AI
